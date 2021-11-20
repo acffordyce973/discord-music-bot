@@ -2,3 +2,9 @@
 node_modules
 .env
 package-lock.json
+<<<<<<< HEAD
+=======
+
+# tests
+test
+>>>>>>> a7cd8eb584c672a26d838f154e856602337c6110
